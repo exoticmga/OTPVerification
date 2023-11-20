@@ -1,2 +1,2 @@
 # OTPVerification
-Week two task by SYNC Internship program
+Week two task from SYNC Internship program
